@@ -158,9 +158,11 @@ This project was developed primarily for educational purposes as part of my lear
 
 │── data/
 │   └── incidenti_clean.csv
+│   └── province.csv
+│   └── province_regioni.csv
 
-│── images/
-│   └── dashboard_preview.png
+│── pdf/
+│   └── progetto_incidenti.pdf
 ```
 
 ---
