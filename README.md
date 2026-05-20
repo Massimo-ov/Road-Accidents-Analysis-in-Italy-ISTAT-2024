@@ -165,16 +165,7 @@ This project was developed primarily for educational purposes as part of my lear
 │   └── progetto_incidenti.pdf
 ```
 
----
 
-# 📌 Project Files
-
-- 📘 README
-- 🐍 Python Cleaning Script
-- 🗄️ SQL Analysis Script
-- 📊 Power BI Dashboard
-
----
 
 # 📌 Notes
 
